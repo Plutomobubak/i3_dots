@@ -1,6 +1,0 @@
-2024/10/08-21:00:04.684 14fb Creating DB /home/arch/.config/chromium/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb since it was missing.
-2024/10/08-21:00:04.703 14fb Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_www.researchgate.net_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/08-21:00:36.786 14fc Level-0 table #5: started
-2024/10/08-21:00:36.794 14fc Level-0 table #5: 1067 bytes OK
-2024/10/08-21:00:36.801 14fc Delete type=0 #3
-2024/10/08-21:00:36.801 14fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

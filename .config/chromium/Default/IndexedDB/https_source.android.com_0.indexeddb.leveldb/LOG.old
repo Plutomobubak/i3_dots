@@ -1,6 +1,0 @@
-2024/09/06-18:51:45.896 5fe Creating DB /home/arch/.config/chromium/Default/IndexedDB/https_source.android.com_0.indexeddb.leveldb since it was missing.
-2024/09/06-18:51:45.923 5fe Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_source.android.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/06-18:54:59.176 5fe Level-0 table #5: started
-2024/09/06-18:54:59.181 5fe Level-0 table #5: 6153 bytes OK
-2024/09/06-18:54:59.187 5fe Delete type=0 #3
-2024/09/06-18:54:59.188 5fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

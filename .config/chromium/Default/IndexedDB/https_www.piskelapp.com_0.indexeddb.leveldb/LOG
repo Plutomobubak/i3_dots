@@ -1,7 +1,0 @@
-2025/01/19-13:11:31.393 5db Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_www.piskelapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/01/19-13:11:31.394 5db Recovering log #3
-2025/01/19-13:11:31.394 5db Reusing old log /home/arch/.config/chromium/Default/IndexedDB/https_www.piskelapp.com_0.indexeddb.leveldb/000003.log 
-2025/01/19-14:57:45.809 5dc Level-0 table #5: started
-2025/01/19-14:57:45.814 5dc Level-0 table #5: 11927 bytes OK
-2025/01/19-14:57:45.820 5dc Delete type=0 #3
-2025/01/19-14:57:45.821 5dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/09/05-16:52:32.612 4ca Creating DB /home/arch/.config/chromium/Default/IndexedDB/https_wedevs.com_0.indexeddb.leveldb since it was missing.
-2024/09/05-16:52:32.627 4ca Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_wedevs.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/05-17:04:36.256 4cb Level-0 table #5: started
-2024/09/05-17:04:36.262 4cb Level-0 table #5: 813 bytes OK
-2024/09/05-17:04:36.270 4cb Delete type=0 #3
-2024/09/05-17:04:36.270 4cb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

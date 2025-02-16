@@ -1,6 +1,0 @@
-2024/10/30-15:37:25.471 409 Creating DB /home/arch/.config/chromium/Default/WebStorage/75/IndexedDB/indexeddb.leveldb since it was missing.
-2024/10/30-15:37:25.486 409 Reusing MANIFEST /home/arch/.config/chromium/Default/WebStorage/75/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/10/30-15:47:30.912 415 Level-0 table #5: started
-2024/10/30-15:47:30.925 415 Level-0 table #5: 1823 bytes OK
-2024/10/30-15:47:30.941 415 Delete type=0 #3
-2024/10/30-15:47:30.941 415 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

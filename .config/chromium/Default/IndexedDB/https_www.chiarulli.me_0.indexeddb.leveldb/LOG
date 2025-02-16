@@ -1,6 +1,0 @@
-2024/10/11-18:18:55.533 438 Creating DB /home/arch/.config/chromium/Default/IndexedDB/https_www.chiarulli.me_0.indexeddb.leveldb since it was missing.
-2024/10/11-18:18:55.549 438 Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_www.chiarulli.me_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/11-18:19:31.611 439 Level-0 table #5: started
-2024/10/11-18:19:31.616 439 Level-0 table #5: 1889 bytes OK
-2024/10/11-18:19:31.623 439 Delete type=0 #3
-2024/10/11-18:19:31.623 439 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

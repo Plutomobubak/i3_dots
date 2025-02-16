@@ -1,6 +1,0 @@
-2024/09/04-18:28:53.612 3c4 Creating DB /home/arch/.config/chromium/Default/IndexedDB/https_www-photopea-com.translate.goog_0.indexeddb.leveldb since it was missing.
-2024/09/04-18:28:53.627 3c4 Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_www-photopea-com.translate.goog_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/04-18:30:00.746 3c5 Level-0 table #5: started
-2024/09/04-18:30:00.752 3c5 Level-0 table #5: 817 bytes OK
-2024/09/04-18:30:00.758 3c5 Delete type=0 #3
-2024/09/04-18:30:00.758 3c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

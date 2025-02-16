@@ -1,5 +1,0 @@
-2025/02/05-18:15:21.665 3d70 Reusing MANIFEST /home/arch/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/02/05-18:15:21.669 3d70 Recovering log #108
-2025/02/05-18:15:21.669 3d70 Reusing old log /home/arch/.config/discord/Local Storage/leveldb/000108.log 
-2025/02/05-18:15:52.967 3d71 Level-0 table #112: started
-2025/02/05-18:15:52.983 3d71 Level-0 table #112: 881304 bytes OK

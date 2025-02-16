@@ -1,9 +1,0 @@
-[package]
-name = "voice"
-version = "0.1.0"
-edition = "2021"
-build = "./src/build.rs"
-
-[dependencies]
-cpal = "0.15.3"
-vosk = "^0.2"
