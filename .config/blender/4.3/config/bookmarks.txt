@@ -1,0 +1,5 @@
+[Bookmarks]
+[Recent]
+/home/arch/Projects/Rust/graphics_2nd_try/assets/cylinder/
+/home/arch/Projects/Rust/graphics_2nd_try/gimp/
+/home/arch/Projects/Rust/graphics_2nd_try/assets/

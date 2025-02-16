@@ -1,0 +1,11 @@
+[package]
+name = "voice"
+version = "0.1.0"
+edition = "2021"
+build = "./src/build.rs"
+
+[dependencies]
+coqui-tts = "0.2.0"
+cpal = "0.15.3"
+#pyo3 = { version = "0.22.3", features = ["extension-module"] }
+vosk = "^0.2"

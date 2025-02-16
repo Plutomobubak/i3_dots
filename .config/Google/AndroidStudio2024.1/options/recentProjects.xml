@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/Java/ad-stdio">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Blokudoku – Leaderboards.java [Blokudoku.app.main]" opened="true" projectWorkspaceId="2li48dIUcZXfZUpWrrRNKqAcHIA">
+              <option name="activationTimestamp" value="1727292003051" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.18034.62.2412.12266719" />
+              <option name="buildTimestamp" value="1724362140000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="8" y="8" width="1904" height="1040" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1725649404940" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Projects/Java/ad-stdio" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects/Rust" />
+  </component>
+</application>

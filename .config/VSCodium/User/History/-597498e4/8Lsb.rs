@@ -1,0 +1,83 @@
+use rodio::{Decoder, OutputStream, OutputStreamHandle, PlayError, Sink, StreamError};
+use std::{
+    fs::File,
+    io::BufReader,
+    sync::{Arc, Mutex},
+    thread,
+};
+
+pub struct Playback {
+    sink: Arc<Mutex<Sink>>,
+    stream_handle: OutputStreamHandle,
+    is_playing: bool,
+}
+
+#[derive(Debug)]
+pub enum PlaybackError {
+    StreamCreationError(StreamError),
+    SinkCreationError(PlayError),
+}
+
+impl Playback {
+    pub fn new() -> Result<Self, PlaybackError> {
+        let (_stream, stream_handle) = match OutputStream::try_default() {
+            Ok(s) => s,
+            Err(e) => {
+                log::error!("Error! Failed to create output stream. {}", e);
+                return Err(PlaybackError::StreamCreationError(e));
+            }
+        };
+
+        let sink = match Sink::try_new(&stream_handle) {
+            Ok(s) => s,
+            Err(e) => {
+                log::error!("Error! Could not create sink. {}", e);
+                return Err(PlaybackError::SinkCreationError(e));
+            }
+        };
+
+        Ok(Self {
+            sink: Arc::new(Mutex::new(sink)),
+            stream_handle,
+            is_playing: false,
+        })
+    }
+
+    pub fn play(&self, filepath: String) {
+        log::info!("Playing {}..", filepath);
+
+        let file = match File::open(&filepath) {
+            Ok(f) => f,
+            Err(e) => {
+                log::error!("Error! Could not open file {}. {}", &filepath, e);
+                return;
+            }
+        };
+
+        let buf_reader = BufReader::new(file);
+
+        let source = match Decoder::new(buf_reader) {
+            Ok(s) => s,
+            Err(e) => {
+                log::error!("Error! Could not create decoder. {}", e);
+                return;
+            }
+        };
+
+        let sink = self.sink.lock().unwrap();
+
+        sink.append(source);
+
+        let sink_clone = Arc::clone(&self.sink);
+
+        let thread = thread::spawn(move || {
+            let sink = sink_clone.lock().unwrap();
+
+            sink.sleep_until_end();
+
+            // thread::sleep(Duration::from_secs(2));
+        });
+
+        thread.join().unwrap();
+    }
+}

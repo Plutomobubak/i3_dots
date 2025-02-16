@@ -1,0 +1,122 @@
+2024-09-15T18:40:28.811840Z ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/arch/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/arch/Projects/Rust/voice/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/arch/Projects/Rust/voice") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+    Updating crates.io index
+error: failed to select a version for the requirement `vosk = "^0.6"`
+candidate versions found which didn't match: 0.2.0, 0.1.0
+location searched: crates.io index
+required by package `voice v0.1.0 (/home/arch/Projects/Rust/voice)`
+
+2024-09-15T18:40:29.272369Z ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/arch/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/arch/Projects/Rust/voice/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/arch/Projects/Rust/voice") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+    Updating crates.io index
+error: failed to select a version for the requirement `vosk = "^0.6"`
+candidate versions found which didn't match: 0.2.0, 0.1.0
+location searched: crates.io index
+required by package `voice v0.1.0 (/home/arch/Projects/Rust/voice)`
+
+2024-09-15T18:40:29.746088Z ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/arch/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/arch/Projects/Rust/voice/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/arch/Projects/Rust/voice") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+    Updating crates.io index
+error: failed to select a version for the requirement `vosk = "^0.6"`
+candidate versions found which didn't match: 0.2.0, 0.1.0
+location searched: crates.io index
+required by package `voice v0.1.0 (/home/arch/Projects/Rust/voice)`
+
+2024-09-15T18:41:15.879478Z ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/arch/.cargo/bin/cargo", arguments: ["check", "-p", "voice", "--bin", "voice", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/arch/Projects/Rust/voice/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/arch/Projects/Rust/voice") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+    Updating crates.io index
+error: failed to select a version for the requirement `vosk = "^0.6"`
+candidate versions found which didn't match: 0.2.0, 0.1.0
+location searched: crates.io index
+required by package `voice v0.1.0 (/home/arch/Projects/Rust/voice)`
+
+2024-09-15T19:07:14.079592Z ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/arch/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/arch/Projects/Rust/voice/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/arch/Projects/Rust/voice") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+error: failed to parse manifest at `/home/arch/Projects/Rust/voice/Cargo.toml`
+
+Caused by:
+  failed to parse the version requirement `build.rs` for dependency `build`
+
+Caused by:
+  unexpected character 'b' while parsing major version number
+
+2024-09-15T19:07:14.150523Z ERROR FetchWorkspaceError: rust-analyzer failed to load workspace: Failed to load the project at /home/arch/Projects/Rust/voice/Cargo.toml: Failed to read Cargo metadata from Cargo.toml file /home/arch/Projects/Rust/voice/Cargo.toml, Some(Version { major: 1, minor: 81, patch: 0 }): Failed to run `cd "/home/arch/Projects/Rust/voice" && RUSTUP_TOOLCHAIN="/home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu" "/home/arch/.cargo/bin/cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/arch/Projects/Rust/voice/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: `cargo metadata` exited with an error: warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+error: failed to parse manifest at `/home/arch/Projects/Rust/voice/Cargo.toml`
+
+Caused by:
+  failed to parse the version requirement `build.rs` for dependency `build`
+
+Caused by:
+  unexpected character 'b' while parsing major version number
+
+
+2024-09-15T19:07:14.223080Z ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/arch/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/arch/Projects/Rust/voice/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/arch/Projects/Rust/voice") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+error: failed to parse manifest at `/home/arch/Projects/Rust/voice/Cargo.toml`
+
+Caused by:
+  failed to parse the version requirement `build.rs` for dependency `build`
+
+Caused by:
+  unexpected character 'b' while parsing major version number
+
+2024-09-15T19:07:14.451927Z ERROR FetchWorkspaceError: rust-analyzer failed to load workspace: Failed to load the project at /home/arch/Projects/Rust/voice/Cargo.toml: Failed to read Cargo metadata from Cargo.toml file /home/arch/Projects/Rust/voice/Cargo.toml, Some(Version { major: 1, minor: 81, patch: 0 }): Failed to run `cd "/home/arch/Projects/Rust/voice" && RUSTUP_TOOLCHAIN="/home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu" "/home/arch/.cargo/bin/cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/arch/Projects/Rust/voice/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: `cargo metadata` exited with an error: warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+error: failed to parse manifest at `/home/arch/Projects/Rust/voice/Cargo.toml`
+
+Caused by:
+  failed to parse the version requirement `build.rs` for dependency `build`
+
+Caused by:
+  unexpected character 'b' while parsing major version number
+
+
+2024-09-15T19:07:14.523676Z ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/arch/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json-diagnostic-rendered-ansi", "--manifest-path", "/home/arch/Projects/Rust/voice/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/arch/Projects/Rust/voice") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+error: failed to parse manifest at `/home/arch/Projects/Rust/voice/Cargo.toml`
+
+Caused by:
+  failed to parse the version requirement `build.rs` for dependency `build`
+
+Caused by:
+  unexpected character 'b' while parsing major version number
+
+2024-09-15T19:07:37.384316Z ERROR FetchBuildDataError: warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+warning: `/home/arch/.cargo/config` is deprecated in favor of `config.toml`
+note: if you need to support cargo 1.38 or earlier, you can symlink `config` to `config.toml`
+error: couldn't read build.rs: No such file or directory (os error 2)
+
+
+error: aborting due to 1 previous error
+
+
+error: could not compile `voice` (build script) due to 2 previous errors
+
+

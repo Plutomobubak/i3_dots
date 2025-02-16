@@ -1,0 +1,6 @@
+2025/01/23-16:18:17.095 46e Reusing MANIFEST /home/arch/.config/chromium/Default/WebStorage/118/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/01/23-16:18:17.095 46e Recovering log #3
+2025/01/23-16:18:17.096 46e Reusing old log /home/arch/.config/chromium/Default/WebStorage/118/IndexedDB/indexeddb.leveldb/000003.log 
+2025/01/23-16:18:23.992 46f Level-0 table #5: started
+2025/01/23-16:18:24.005 46f Level-0 table #5: 1853493 bytes OK
+2025/01/23-16:18:24.012 46f Delete type=0 #3

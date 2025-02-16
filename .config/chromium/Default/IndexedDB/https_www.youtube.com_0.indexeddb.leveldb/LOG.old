@@ -1,0 +1,24 @@
+2025/01/31-17:51:07.274 c4c Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/31-17:51:07.274 c4c Recovering log #11
+2025/01/31-17:51:07.282 c4c Reusing old log /home/arch/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2025/01/31-17:51:07.932 c4b Level-0 table #16: started
+2025/01/31-17:51:07.945 c4b Level-0 table #16: 1722633 bytes OK
+2025/01/31-17:51:07.953 c4b Delete type=0 #11
+2025/01/31-17:51:08.983 c4c Compacting 1@1 + 1@2 files
+2025/01/31-17:51:08.993 c4c Generated table #17@1: 352 keys, 110535 bytes
+2025/01/31-17:51:08.993 c4c Compacted 1@1 + 1@2 files => 110535 bytes
+2025/01/31-17:51:09.002 c4c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/31-17:51:09.002 c4c Delete type=2 #13
+2025/01/31-17:51:09.002 c4c Delete type=2 #16
+2025/01/31-18:43:27.039 c4c Level-0 table #19: started
+2025/01/31-18:43:27.047 c4c Level-0 table #19: 590180 bytes OK
+2025/01/31-18:43:27.054 c4c Delete type=0 #15
+2025/01/31-18:43:27.054 c4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/31-18:43:27.054 c4c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 23003 : 1
+2025/01/31-18:43:27.054 c4c Compacting 1@1 + 1@2 files
+2025/01/31-18:43:27.060 c4c Generated table #20@1: 336 keys, 77691 bytes
+2025/01/31-18:43:27.060 c4c Compacted 1@1 + 1@2 files => 77691 bytes
+2025/01/31-18:43:27.072 c4c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/31-18:43:27.072 c4c Delete type=2 #19
+2025/01/31-18:43:27.072 c4c Delete type=2 #17
+2025/01/31-18:43:27.072 c4c Manual compaction at level-1 from '\x00\x0a\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 23003 : 1 .. (end); will stop at (end)

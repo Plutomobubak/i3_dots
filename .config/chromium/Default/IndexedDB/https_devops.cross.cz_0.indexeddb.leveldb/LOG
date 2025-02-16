@@ -1,0 +1,15 @@
+2025/01/16-15:13:25.583 5ed Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_devops.cross.cz_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/16-15:13:25.583 5ed Recovering log #4
+2025/01/16-15:13:25.584 5ed Reusing old log /home/arch/.config/chromium/Default/IndexedDB/https_devops.cross.cz_0.indexeddb.leveldb/000004.log 
+2025/01/16-15:28:27.685 5ed Level-0 table #8: started
+2025/01/16-15:28:27.690 5ed Level-0 table #8: 80503 bytes OK
+2025/01/16-15:28:27.696 5ed Delete type=0 #4
+2025/01/16-15:28:27.697 5ed Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/16-15:28:27.697 5ed Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01B\x00w\x00i\x00t\x00/\x001\x001\x00/\x00e\x004\x009\x00e\x00f\x008\x001\x000\x00-\x004\x001\x00f\x006\x00-\x004\x004\x001\x00f\x00-\x00b\x004\x000\x001\x00-\x006\x00e\x009\x002\x009\x00e\x002\x000\x003\x000\x005\x00e\x00/\x00w\x00o\x00r\x00k\x00I\x00t\x00e\x00m\x00T\x00y\x00p\x00e\x00E\x00x\x00t\x00e\x00n\x00s\x00i\x00o\x00n\x00s' @ 391 : 1
+2025/01/16-15:28:27.697 5ed Compacting 1@1 + 1@2 files
+2025/01/16-15:28:27.702 5ed Generated table #9@1: 27 keys, 18718 bytes
+2025/01/16-15:28:27.702 5ed Compacted 1@1 + 1@2 files => 18718 bytes
+2025/01/16-15:28:27.709 5ed compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/16-15:28:27.709 5ed Delete type=2 #5
+2025/01/16-15:28:27.709 5ed Delete type=2 #8
+2025/01/16-15:28:27.709 5ed Manual compaction at level-1 from '\x00\x01\x01\x02\x01B\x00w\x00i\x00t\x00/\x001\x001\x00/\x00e\x004\x009\x00e\x00f\x008\x001\x000\x00-\x004\x001\x00f\x006\x00-\x004\x004\x001\x00f\x00-\x00b\x004\x000\x001\x00-\x006\x00e\x009\x002\x009\x00e\x002\x000\x003\x000\x005\x00e\x00/\x00w\x00o\x00r\x00k\x00I\x00t\x00e\x00m\x00T\x00y\x00p\x00e\x00E\x00x\x00t\x00e\x00n\x00s\x00i\x00o\x00n\x00s' @ 391 : 1 .. (end); will stop at (end)

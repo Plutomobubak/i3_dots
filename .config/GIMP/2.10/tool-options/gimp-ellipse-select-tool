@@ -1,0 +1,6 @@
+# GIMP gimp-ellipse-select-tool options
+
+(antialias no)
+(feather-radius 3)
+
+# end of gimp-ellipse-select-tool options

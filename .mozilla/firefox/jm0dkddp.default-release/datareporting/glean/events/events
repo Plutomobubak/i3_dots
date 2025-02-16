@@ -1,0 +1,14 @@
+{"timestamp":1309583,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","loadfail_reason":"N/A","path_key":"clean","glean_timestamp":"1739693511353"}}
+{"timestamp":1309584,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1739693511353","path_key":"clean","loadfail_reason":"N/A","can_load":"true"}}
+{"timestamp":1309584,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"glean_timestamp":"1739693511353","shutdown_ok":"false","shutdown_reason":"N/A"}}
+{"timestamp":1309764,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1739693511533"}}
+{"timestamp":1309856,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"","glean_timestamp":"1739693511625"}}
+{"timestamp":1309905,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1739693511674","value":"null"}}
+{"timestamp":1310061,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"glean_timestamp":"1739693511830","feature":"addAnImageInPDF","value":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature"}}
+{"timestamp":1310061,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","glean_timestamp":"1739693511830","feature":"addAnImageInPDF"}}
+{"timestamp":1310061,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1739693511831"}}
+{"timestamp":1310116,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1739693511885","value":""}}
+{"timestamp":1310122,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1739693511891","value":"not-major"}}
+{"timestamp":1371012,"category":"aboutpreferences","name":"show_initial","extra":{"glean_timestamp":"1739693572781","value":"paneSearch"}}
+{"timestamp":1378336,"category":"urlbar","name":"engagement","extra":{"glean_timestamp":"1739693580106","interaction":"typed","search_mode":"","n_chars":"14","provider":"Autofill","selected_result":"autofill_about","groups":"heuristic","actions":"none","selected_position":"1","sap":"urlbar","n_results":"1","engagement_type":"enter","search_engine_default_id":"ddg","n_words":"1","results":"autofill_about"}}
+{"timestamp":1428974,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1739693630743"}}

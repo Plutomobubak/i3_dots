@@ -1,0 +1,71 @@
+2024-09-19 20:29:31.948 [info] [main] Log level: Info
+2024-09-19 20:29:31.948 [info] [main] Validating found git in: "git"
+2024-09-19 20:29:31.948 [info] [main] Using git "2.46.1" from "git"
+2024-09-19 20:29:31.948 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-19 20:29:31.948 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-19 20:29:31.948 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-09-19 20:29:31.948 [info] [Model][openRepository] Opened repository: /home/arch/Projects/Rust/voice
+2024-09-19 20:29:31.951 [info] > git rev-parse --show-toplevel [61ms]
+2024-09-19 20:29:31.952 [info] > git config --get commit.template [64ms]
+2024-09-19 20:29:31.990 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-19 20:29:31.991 [info] > git rev-parse --show-toplevel [17ms]
+2024-09-19 20:29:31.997 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-09-19 20:29:31.997 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:32.008 [info] > git status -z -uall [7ms]
+2024-09-19 20:29:32.018 [info] > git rev-parse --show-toplevel [22ms]
+2024-09-19 20:29:32.024 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-09-19 20:29:32.025 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:32.027 [info] > git rev-parse --show-toplevel [3ms]
+2024-09-19 20:29:32.027 [info] > git config --get commit.template [6ms]
+2024-09-19 20:29:32.033 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-19 20:29:32.034 [info] > git rev-parse --show-toplevel [4ms]
+2024-09-19 20:29:32.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-09-19 20:29:32.037 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:32.040 [info] > git rev-parse --show-toplevel [3ms]
+2024-09-19 20:29:32.040 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-19 20:29:32.041 [info] > git status -z -uall [1ms]
+2024-09-19 20:29:32.046 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-09-19 20:29:32.046 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:32.375 [info] > git show --textconv :src/text_to_speech.rs [4ms]
+2024-09-19 20:29:32.375 [info] > git ls-files --stage -- /home/arch/Projects/Rust/voice/src/text_to_speech.rs [1ms]
+2024-09-19 20:29:32.463 [info] > git check-ignore -v -z --stdin [1ms]
+2024-09-19 20:29:33.911 [info] > git ls-files --stage -- /home/arch/Projects/Rust/voice/src/text_to_speech.rs [1ms]
+2024-09-19 20:29:33.916 [info] > git show --textconv :src/text_to_speech.rs [0ms]
+2024-09-19 20:29:34.389 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-19 20:29:34.390 [info] > git config --get commit.template [3ms]
+2024-09-19 20:29:34.390 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-09-19 20:29:34.390 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:34.394 [info] > git status -z -uall [1ms]
+2024-09-19 20:29:34.399 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-09-19 20:29:34.399 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:50.631 [info] [main] Log level: Info
+2024-09-19 20:29:50.631 [info] [main] Validating found git in: "git"
+2024-09-19 20:29:50.631 [info] [main] Using git "2.46.1" from "git"
+2024-09-19 20:29:50.631 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-19 20:29:50.631 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-19 20:29:50.636 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-09-19 20:29:50.641 [info] [Model][openRepository] Opened repository: /home/arch/Projects/Rust/voice
+2024-09-19 20:29:50.651 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-19 20:29:50.651 [info] > git config --get commit.template [5ms]
+2024-09-19 20:29:50.659 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-19 20:29:50.659 [info] > git rev-parse --show-toplevel [4ms]
+2024-09-19 20:29:50.659 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-09-19 20:29:50.660 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:50.667 [info] > git status -z -uall [3ms]
+2024-09-19 20:29:50.674 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-09-19 20:29:50.674 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:50.674 [info] > git rev-parse --show-toplevel [8ms]
+2024-09-19 20:29:50.679 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-19 20:29:50.684 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-19 20:29:50.688 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-19 20:29:50.688 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-19 20:29:50.693 [info] > git ls-files --stage -- /home/arch/Projects/Rust/voice/src/text_to_speech.rs [1ms]
+2024-09-19 20:29:50.697 [info] > git show --textconv :src/text_to_speech.rs [1ms]
+2024-09-19 20:29:50.731 [info] > git config --get commit.template [3ms]
+2024-09-19 20:29:50.758 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-19 20:29:50.758 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-09-19 20:29:50.758 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:50.762 [info] > git status -z -uall [1ms]
+2024-09-19 20:29:50.771 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-09-19 20:29:50.771 [warning] [Git][getBranch] No such branch: master
+2024-09-19 20:29:51.157 [info] > git check-ignore -v -z --stdin [1ms]

@@ -1,0 +1,6 @@
+2024-09-15 20:35:25.006 [info] Started local extension host with pid 1710.
+2024-09-15 20:35:26.478 [error] ENOENT: no such file or directory, open '/home/arch/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/arch/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+2024-09-15 20:35:27.604 [info] [perf] Render performance baseline is 19ms
+2024-09-15 20:35:35.739 [info] Started local extension host with pid 1758.
+2024-09-15 20:35:38.349 [info] [perf] Render performance baseline is 20ms
+2024-09-15 21:24:52.710 [warning] Semantic token with invalid length detected at lineNumber 17, column 1

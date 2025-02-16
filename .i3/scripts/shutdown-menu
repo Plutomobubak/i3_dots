@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Options for rofi
+options="Shutdown\nReboot\nLock\nLogout\nCancel"
+
+# rofi command
+selected=$(echo -e "$options" | rofi -dmenu -i -p "Select an option:")
+
+case $selected in
+    Shutdown)
+        systemctl poweroff
+        ;;
+    Reboot)
+        systemctl reboot
+        ;;
+    Logout)
+        i3-msg exit
+        ;;
+    Lock)
+        exec /home/$USER/.i3/scripts/lock
+        ;;
+    Cancel)
+        exit 0
+        ;;
+    *)
+        exit 1
+        ;;
+esac
+

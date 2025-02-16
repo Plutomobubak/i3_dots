@@ -1,0 +1,119 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Rust test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3p4vp1yyzbui6" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;JAVA&quot;: {
+      &quot;usageCount&quot;: 2,
+      &quot;lastUsed&quot;: 1725648373997
+    },
+    &quot;Kotlin&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1725648402807
+    }
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1725648373997" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="1" lastUsage="1725648402807" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ad-stdio" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Projects/Rust/ad-stdio" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2378178" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" show_stripe_button="false" weight="0.34332025" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Device Manager 2" order="3" visible="true" weight="0.10646187" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.10673277" />
+      <unified_weights bottom="0.34332025" left="0.2378178" right="0.10646187" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Device Manager 2</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="237" width="954" height="522" key="#PSD" timestamp="1725649279970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="724" y="237" width="954" height="522" key="#PSD/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725649279970" />
+    <state x="674" y="160" key="SettingsEditor" timestamp="1725649309639">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="674" y="160" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725649309639" />
+    <state width="498" height="631" key="SwitcherDM" timestamp="1725648321638">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="631" key="SwitcherDM/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725648321638" />
+    <state x="621" y="208" key="search.everywhere.popup" timestamp="1725648331193">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="208" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725648331193" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/rusttest/ExampleUnitTest.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/rusttest/ExampleInstrumentedTest.java" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts" />
+  </component>
+</project>

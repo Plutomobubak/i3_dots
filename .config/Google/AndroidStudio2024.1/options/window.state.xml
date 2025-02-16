@@ -1,0 +1,24 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="520" />
+    <location key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog.0.0.1920.1080" x="548" y="210" />
+    <size key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog.0.0.1920.1080" width="818" height="628" />
+  </component>
+  <component name="WindowManager">
+    <frame x="8" y="8" width="1904" height="1040" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="761" y="271" width="428" height="508" key="FileChooserDialogImpl" timestamp="1725649400937">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="761" y="271" width="428" height="508" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1725649400937" />
+    <state x="960" y="528" width="632" height="1040" key="WELCOME_SCREEN" timestamp="1725649404886">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="528" width="632" height="1040" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1725649404886" />
+    <state x="1444" y="8" width="468" height="1040" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame" timestamp="1725641942719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1444" y="8" width="468" height="1040" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame/0.0.1920.1080/1920.0.1920.1080" timestamp="1725641942719" />
+  </component>
+</application>

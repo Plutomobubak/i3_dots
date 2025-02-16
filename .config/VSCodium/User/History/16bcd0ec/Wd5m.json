@@ -1,0 +1,5 @@
+{
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "editor.lineNumbers": "relative",
+    "terminal.integrated.scrollback": 5000
+}

@@ -1,0 +1,10 @@
+2024-09-16T14:26:27.227024Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T14:26:27.227039Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T14:26:30.864437Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T14:26:30.864451Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T14:26:49.241350Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T14:26:49.241374Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T14:27:03.683939Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T14:27:03.683962Z ERROR Overloaded deref on type {unknown} is not a projection
+2024-09-16T19:36:26.301312Z ERROR Only adt has field, found {slice}<Int(I16)>
+2024-09-16T19:36:26.301473Z ERROR Only adt has field, found {slice}<Int(I16)>

@@ -1,0 +1,51 @@
+2024-09-14 16:44:23.841 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/classifier.xml
+2024-09-14 16:44:24.409 [info] /home/arch/Projects/Rust/camera_recognition/src/classifier.xml closed
+2024-09-14 16:44:24.419 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/main.rs
+2024-09-14 16:44:24.433 [info] /home/arch/Projects/Rust/camera_recognition/src/classifier.xml.git closed
+2024-09-14 16:44:39.224 [info] /home/arch/Projects/Rust/camera_recognition/src/main.rs closed
+2024-09-14 16:44:39.233 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/Cargo.toml
+2024-09-14 16:44:39.239 [info] /home/arch/Projects/Rust/camera_recognition/src/main.rs.git closed
+2024-09-14 16:44:45.062 [info] /home/arch/Projects/Rust/camera_recognition/Cargo.toml closed
+2024-09-14 16:44:45.062 [info] /home/arch/Projects/Rust/camera_recognition/Cargo.toml.git closed
+2024-09-14 16:45:46.441 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/classifier.xml
+2024-09-14 16:45:47.190 [info] /home/arch/Projects/Rust/camera_recognition/src/classifier.xml closed
+2024-09-14 16:45:47.207 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/fist.xml
+2024-09-14 16:45:47.214 [info] /home/arch/Projects/Rust/camera_recognition/src/classifier.xml.git closed
+2024-09-14 16:45:47.703 [info] /home/arch/Projects/Rust/camera_recognition/src/fist.xml closed
+2024-09-14 16:45:47.712 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/main.rs
+2024-09-14 16:45:47.722 [info] /home/arch/Projects/Rust/camera_recognition/src/fist.xml.git closed
+2024-09-14 16:45:48.773 [info] /home/arch/Projects/Rust/camera_recognition/src/main.rs closed
+2024-09-14 16:45:48.795 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/rpalm.xml
+2024-09-14 16:45:48.802 [info] /home/arch/Projects/Rust/camera_recognition/src/main.rs.git closed
+2024-09-14 16:46:03.423 [info] /home/arch/Projects/Rust/camera_recognition/src/rpalm.xml closed
+2024-09-14 16:46:03.449 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/classifier.xml
+2024-09-14 16:46:03.456 [info] /home/arch/Projects/Rust/camera_recognition/src/rpalm.xml.git closed
+2024-09-14 16:46:04.072 [info] /home/arch/Projects/Rust/camera_recognition/src/classifier.xml closed
+2024-09-14 16:46:04.083 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/lpalm.xml
+2024-09-14 16:46:04.087 [info] /home/arch/Projects/Rust/camera_recognition/src/classifier.xml.git closed
+2024-09-14 16:46:05.136 [info] /home/arch/Projects/Rust/camera_recognition/src/lpalm.xml closed
+2024-09-14 16:46:05.136 [info] /home/arch/Projects/Rust/camera_recognition/src/lpalm.xml.git closed
+2024-09-14 16:46:09.363 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/main.rs
+2024-09-14 16:47:20.698 [info] /home/arch/Projects/Rust/camera_recognition/src/main.rs closed
+2024-09-14 16:47:20.712 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/target/debug/.cargo-lock
+2024-09-14 16:47:20.717 [info] /home/arch/Projects/Rust/camera_recognition/src/main.rs.git closed
+2024-09-14 16:47:25.206 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/.cargo-lock closed
+2024-09-14 16:47:25.207 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/.cargo-lock.git closed
+2024-09-14 16:48:31.265 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/main.rs
+2024-09-14 16:48:52.139 [info] Executing :w
+2024-09-14 17:00:02.301 [info] /home/arch/Projects/Rust/camera_recognition/src/main.rs.git closed
+2024-09-14 17:00:04.688 [info] Configuration changed
+2024-09-14 17:00:07.490 [info] Active editor: file:///home/arch/Projects/Rust/camera_recognition/src/main.rs
+2024-09-14 17:00:44.381 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed
+2024-09-14 17:00:45.713 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed
+2024-09-14 17:00:47.060 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed
+2024-09-14 17:01:23.773 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed
+2024-09-14 17:01:57.976 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.92.3/src/manual/core/vector.rs closed
+2024-09-14 17:02:04.247 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed
+2024-09-14 17:02:32.486 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.92.3/src/manual/core/vec.rs closed
+2024-09-14 17:02:53.568 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed
+2024-09-14 17:03:49.214 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed
+2024-09-14 17:04:26.248 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/opencv-0.92.3/src/lib.rs closed
+2024-09-14 17:04:26.358 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/core.rs closed
+2024-09-14 17:04:42.123 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/videoio.rs closed
+2024-09-14 17:05:12.761 [info] /home/arch/Projects/Rust/camera_recognition/target/debug/build/opencv-501d6337ca54d5a2/out/opencv/imgproc.rs closed

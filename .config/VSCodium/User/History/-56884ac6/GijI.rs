@@ -1,0 +1,49 @@
+use cpal::{traits::{DeviceTrait, HostTrait, StreamTrait}, SampleRate, Stream, StreamConfig};
+use std::{sync::{Arc, Mutex}, time::Duration};
+
+pub struct VoiceBuffer{
+    buffer: Arc<Mutex<Vec<i16>>>,
+    _stream:Stream
+}
+impl VoiceBuffer{
+    pub fn new()-> Self{
+        let host = cpal::default_host();
+        let device = host.default_input_device().expect("No input device");
+        let mut config:StreamConfig = device.default_input_config().expect("No config").into();
+        
+        let buffer = Arc::new(Mutex::new(Vec::new()));
+
+        let buffer_ref = buffer.clone();
+        config.sample_rate = SampleRate(16000);
+        config.channels = 1;
+
+        let stream = device.build_input_stream(
+            &config, 
+            move |data: &[i16], _: &cpal::InputCallbackInfo| {
+                    let mut buffer = buffer_ref.lock().unwrap();
+
+                    // // Append audio data to the buffer
+                    buffer.extend_from_slice(data);
+                },
+            
+            move |err| {
+                eprintln!("Error occurred on input stream: {}", err);
+            },
+            Some(Duration::from_secs(10))
+        ).expect("Failed input stream build");
+
+        stream.play().expect("failed to start");
+        Self{buffer:buffer,_stream:stream}
+    }
+pub(crate) fn get_audio(&mut self) -> Vec<i16>{
+        self.buffer.lock().unwrap().to_vec()
+    }
+    pub(crate) fn remove_first_n_samples(&mut self, n: usize) {
+        let mut buffer = self.buffer.lock().unwrap();
+        if n <= buffer.len() {
+            buffer.drain(0..n); // Remove the first `n` elements
+        } else {
+            buffer.clear(); // If `n` is greater than the buffer length, clear the whole buffer
+        }
+    }
+}

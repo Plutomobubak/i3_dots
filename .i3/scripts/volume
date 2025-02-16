@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+
+if [[ -z "$MIXER" ]] ; then
+    MIXER="pipewire"
+    if command -v wpctl >/dev/null 2>&1 ; then
+        MIXER="wpctl"
+    fi
+    [ -n "$(lsmod | grep jack)" ] && MIXER="jackplug"
+    MIXER="${2:-$MIXER}"
+fi
+
+if [[ -z "$SCONTROL" ]] ; then
+    SCONTROL="${BLOCK_INSTANCE:-$(wpctl status | grep -oP "(?<=\[)\d+(?=\].*\[volumes:)" | head -n1)}"
+fi
+
+# The first parameter sets the step to change the volume by (and units to display)
+# This may be in % (e.g., 5%)
+if [[ -z "$STEP" ]] ; then
+    STEP="${1:-5%}"
+fi
+
+#------------------------------------------------------------------------
+
+volume() {
+  wpctl get-volume @DEFAULT_AUDIO_SINK@
+}
+
+format() {
+  output=$(volume | grep -oP '\d+(?=%)' | head -n1)
+  is_muted=$(wpctl get-volume @DEFAULT_AUDIO_SINK@ | grep -oP '(?<=muted: )\w+')
+  if [[ "$is_muted" == "true" ]]; then
+    echo "$LABEL MUTE"
+  else
+    echo "$LABEL $output%"
+  fi
+}
+
+#------------------------------------------------------------------------
+
+case $BLOCK_BUTTON in
+  3) wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle ;;  # right click, mute/unmute
+  4) wpctl set-volume @DEFAULT_AUDIO_SINK@ $(($STEP))%+ ;; # scroll up, increase
+  5) wpctl set-volume @DEFAULT_AUDIO_SINK@ $(($STEP))%- ;; # scroll down, decrease
+esac
+
+format
+

@@ -1,0 +1,1 @@
+/home/arch/Projects/Rust/graphics_2nd_try/gimp/cylinder.blend

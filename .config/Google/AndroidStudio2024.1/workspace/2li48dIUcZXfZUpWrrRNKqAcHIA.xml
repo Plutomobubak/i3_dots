@@ -1,0 +1,677 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Rust test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DesignSurfaceV2">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.596" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.596" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/menu.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/score_row.xml" value="0.4418604651162791" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3pl7lryauy1um" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Menu.java">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="2530">
+                <caret line="156" column="31" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Leaderboards.java">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="390">
+                <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu.xml">
+          <provider editor-type-id="android-designer2" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/GameStateManager.java">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="616">
+                <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/DragDrop.java">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="3124">
+                <caret line="158" column="120" selection-start-line="158" selection-start-column="120" selection-end-line="158" selection-end-column="120" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                </folding>
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 51,
+      "lastUsed": 1727287862369
+    },
+    "XML": {
+      "usageCount": 37,
+      "lastUsed": 1727287861985
+    },
+    "Kotlin": {
+      "usageCount": 7,
+      "lastUsed": 1727198005199
+    },
+    "": {
+      "usageCount": 1,
+      "lastUsed": 1725812716620
+    },
+    "GitIgnore file": {
+      "usageCount": 1,
+      "lastUsed": 1725812760375
+    },
+    "Properties": {
+      "usageCount": 4,
+      "lastUsed": 1727198113613
+    },
+    "Shell Script": {
+      "usageCount": 1,
+      "lastUsed": 1725812763257
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1725812764343
+    },
+    "Shrinker Config File": {
+      "usageCount": 1,
+      "lastUsed": 1725812787761
+    },
+    "TOML": {
+      "usageCount": 1,
+      "lastUsed": 1725812899956
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getLocal</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/rusttest/Block.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/rusttest/MainActivity.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/rusttest/Blocks.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/rusttest/GridVerify.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/rusttest/Grid.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/rusttest/DragDrop.java" />
+      <option value="$PROJECT_DIR$/settings.gradle.kts" />
+      <option value="$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Grid.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/GridVerify.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Block.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Blocks.java" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/ScoreManager.java" />
+      <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <option value="$PROJECT_DIR$/app/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/MainActivity.java" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/score_row.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/ScoreAdapter.java" />
+      <option value="$PROJECT_DIR$/app/src/main/res/layout/menu.xml" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/DragDrop.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/GameStateManager.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/NameInputDialog.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Menu.java" />
+      <option value="$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Leaderboards.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1725812760375" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="51" lastUsage="1727287862369" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="4" lastUsage="1727198113613" />
+    </language>
+    <language id="SHRINKER_CONFIG">
+      <summary usageCount="1" lastUsage="1725812787761" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1725812763257" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="1" lastUsage="1725812899956" />
+    </language>
+    <language id="XML">
+      <summary usageCount="37" lastUsage="1727287861985" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="7" lastUsage="1727198005199" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1725812764343" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main/java/com/example/blokudoku}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main/res}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blokudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main/res}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/arch/Projects/Java/ad-stdio/app/src/main/res/layout}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="Logcat">
+            <content>
+              <panel>{'device':{'deviceId':'Pixel_API_28','name':'Pixel API 28','serialNumber':'emulator-5554','isOnline':false,'release':'9','sdk':28,'featureLevel':28,'model':'','type':'HANDHELD','isEmulator':true},'formattingConfig':{'preset':'STANDARD'},'filter':'package:mine ','filterMatchCase':false,'isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3426907" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.3392105" />
+      <window_info id="Resources Explorer" order="2" weight="0.19921052" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.24508841" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.18614931" />
+      <window_info anchor="bottom" id="Logcat" order="4" weight="0.31090373" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3295678" />
+      <window_info active="true" anchor="bottom" id="Build" order="8" visible="true" weight="0.31090373" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3295678" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.60286456" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25052965" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.44973683" />
+      <window_info anchor="right" id="Running Devices" order="4" visible="true" weight="0.6028947" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32997882" />
+      <unified_weights bottom="0.31090373" left="0.3392105" right="0.6028947" />
+    </layoutV2>
+    <recentWindows>
+      <value>Running Devices</value>
+      <value>Commit</value>
+      <value>Notifications</value>
+      <value>Device Manager 2</value>
+      <value>Build</value>
+      <value>Logcat</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Assistant</value>
+      <value>TODO</value>
+      <value>Resources Explorer</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="615" y="197" width="726" height="654" key="#Notifications" timestamp="1725812749038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="615" y="197" width="726" height="654" key="#Notifications/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725812749038" />
+    <state x="438" y="209" width="954" height="522" key="#PSD" timestamp="1727198534508">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="438" y="209" width="954" height="522" key="#PSD/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1727198534508" />
+    <state x="548" y="210" width="818" height="628" key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog" timestamp="1725795435692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="210" width="818" height="628" key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725795435692" />
+    <state x="480" y="163" width="898" height="793" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1727197442279">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="480" y="163" width="898" height="793" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1727197442279" />
+    <state x="759" y="215" width="396" height="617" key="#com.intellij.ide.util.MemberChooser" timestamp="1727201077943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="759" y="215" width="396" height="617" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1727201077943" />
+    <state x="661" y="302" width="529" height="411" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1725813013986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="302" width="529" height="411" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725813013986" />
+    <state x="721" y="414" width="471" height="219" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1725999183357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="721" y="414" width="471" height="219" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725999183357" />
+    <state x="320" y="266" width="428" height="508" key="FileChooserDialogImpl" timestamp="1725813620512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="320" y="266" width="428" height="508" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725813620512" />
+    <state x="693" y="359" width="528" height="330" key="Github.ShareDialog" timestamp="1725812399299">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="359" width="528" height="330" key="Github.ShareDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725812399299" />
+    <state x="767" y="236" width="380" height="576" key="Github.UntrackedFilesDialog" timestamp="1725812426373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="767" y="236" width="380" height="576" key="Github.UntrackedFilesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725812426373" />
+    <state x="428" y="100" key="SettingsEditor" timestamp="1725656889020">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="428" y="100" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725656889020" />
+    <state x="555" y="242" width="804" height="564" key="Vcs.Push.Dialog.v2" timestamp="1727208116463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="242" width="804" height="564" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1727208116463" />
+    <state x="732" y="189" width="440" height="646" key="conflicts.dialog" timestamp="1726157783143">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="732" y="189" width="440" height="646" key="conflicts.dialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1726157783143" />
+    <state x="454" y="209" width="916" height="514" key="psd.add.library.dependency.panel.dimension" timestamp="1727198525395">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="209" width="916" height="514" key="psd.add.library.dependency.panel.dimension/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1727198525395" />
+    <state x="623" y="226" width="680" height="713" key="search.everywhere.popup" timestamp="1725812830166">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="226" width="680" height="713" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1725812830166" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/default_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/DefaultActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="android-dummy:///home/arch/Projects/Java/ad-stdio/Blokudoku.app.main/Translations Editor">
+      <provider selected="true" editor-type-id="string-resource-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-night/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/libs.versions.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/GridVerify.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1738">
+            <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Block.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="308">
+            <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Grid.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="220">
+            <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="48" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Blocks.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="550">
+            <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gradle/config.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#397#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/MainActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="395">
+            <caret line="69" column="83" selection-start-line="69" selection-start-column="83" selection-end-line="69" selection-end-column="83" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/score_row.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/ScoreManager.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1896">
+            <caret line="101" selection-start-line="101" selection-end-line="101" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="e#2027#2028#0" expanded="true" />
+              <element signature="e#2089#2090#0" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/ScoreAdapter.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="537">
+            <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="e#470#471#0" expanded="true" />
+              <element signature="e#512#513#0" expanded="true" />
+              <element signature="e#1116#1117#0" expanded="true" />
+              <element signature="e#1155#1156#0" expanded="true" />
+              <element signature="e#1242#1243#0" expanded="true" />
+              <element signature="e#1276#1277#0" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/NameInputDialog.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Menu.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="2530">
+            <caret line="156" column="31" selection-start-line="156" selection-start-column="31" selection-end-line="156" selection-end-column="31" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/GameStateManager.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="616">
+            <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/DragDrop.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="3124">
+            <caret line="158" column="120" selection-start-line="158" selection-start-column="120" selection-end-line="158" selection-end-column="120" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/blokudoku/Leaderboards.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="390">
+            <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+2025/02/01-18:34:28.995 960 Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/01-18:34:28.995 960 Recovering log #39
+2025/02/01-18:34:28.995 960 Reusing old log /home/arch/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000039.log 
+2025/02/01-18:35:01.012 960 Level-0 table #44: started
+2025/02/01-18:35:01.019 960 Level-0 table #44: 2141 bytes OK
+2025/02/01-18:35:01.028 960 Delete type=0 #39
+2025/02/01-18:35:01.028 960 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/02/01-18:35:01.028 960 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 1390 : 1
+2025/02/01-18:35:01.028 960 Compacting 1@1 + 1@2 files
+2025/02/01-18:35:01.033 960 Generated table #45@1: 23 keys, 808 bytes
+2025/02/01-18:35:01.033 960 Compacted 1@1 + 1@2 files => 808 bytes
+2025/02/01-18:35:01.040 960 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/01-18:35:01.040 960 Delete type=2 #41
+2025/02/01-18:35:01.040 960 Delete type=2 #44
+2025/02/01-18:35:01.040 960 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 1390 : 1 .. (end); will stop at (end)

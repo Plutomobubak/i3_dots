@@ -1,0 +1,25 @@
+2025/01/07-17:10:43.496 4cc Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/07-17:10:43.496 4cc Recovering log #4
+2025/01/07-17:10:43.499 4cc Reusing old log /home/arch/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/01/07-17:10:55.919 4ce Level-0 table #8: started
+2025/01/07-17:10:55.942 4ce Level-0 table #8: 3021634 bytes OK
+2025/01/07-17:10:55.949 4ce Delete type=0 #4
+2025/01/07-17:20:13.006 4cd Level-0 table #10: started
+2025/01/07-17:20:13.019 4cd Level-0 table #10: 1799833 bytes OK
+2025/01/07-17:20:13.026 4cd Delete type=0 #7
+2025/01/07-17:20:13.026 4cd Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 5786 : 0
+2025/01/07-17:20:13.026 4cd Compacting 1@0 + 1@1 files
+2025/01/07-17:20:13.046 4cd Generated table #11@0: 1281 keys, 1690245 bytes
+2025/01/07-17:20:13.046 4cd Compacted 1@0 + 1@1 files => 1690245 bytes
+2025/01/07-17:20:13.052 4cd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/07-17:20:13.053 4cd Delete type=2 #8
+2025/01/07-17:20:13.053 4cd Delete type=2 #10
+2025/01/07-17:20:13.054 4cd Manual compaction at level-0 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 5786 : 0 .. (end); will stop at (end)
+2025/01/07-17:20:13.054 4cd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 6436 : 1
+2025/01/07-17:20:13.054 4cd Compacting 1@1 + 1@2 files
+2025/01/07-17:20:13.063 4cd Generated table #12@1: 115 keys, 403484 bytes
+2025/01/07-17:20:13.063 4cd Compacted 1@1 + 1@2 files => 403484 bytes
+2025/01/07-17:20:13.069 4cd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/07-17:20:13.069 4cd Delete type=2 #5
+2025/01/07-17:20:13.069 4cd Delete type=2 #11
+2025/01/07-17:20:13.070 4cd Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 6436 : 1 .. (end); will stop at (end)

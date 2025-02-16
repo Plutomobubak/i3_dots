@@ -1,0 +1,18 @@
+2025/01/06-15:39:39.698 61c Creating DB /home/arch/.config/chromium/Default/IndexedDB/https_poly.cam_0.indexeddb.leveldb since it was missing.
+2025/01/06-15:39:39.713 61c Reusing MANIFEST /home/arch/.config/chromium/Default/IndexedDB/https_poly.cam_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/06-15:39:39.754 61f Level-0 table #5: started
+2025/01/06-15:39:39.765 61f Level-0 table #5: 1356 bytes OK
+2025/01/06-15:39:39.776 61f Delete type=0 #3
+2025/01/06-15:39:39.776 61f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/06-15:40:05.049 61d Level-0 table #7: started
+2025/01/06-15:40:05.054 61d Level-0 table #7: 3271 bytes OK
+2025/01/06-15:40:05.060 61d Delete type=0 #4
+2025/01/06-15:40:05.060 61d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/01/06-15:40:05.060 61d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x018\x00p\x00o\x00l\x00y\x00c\x00a\x00m\x00-\x00a\x004\x00a\x001\x00e\x00!\x001\x00:\x001\x000\x002\x003\x002\x009\x003\x001\x007\x002\x005\x005\x004\x00:\x00w\x00e\x00b\x00:\x00e\x000\x00b\x002\x00e\x00f\x00b\x008\x00c\x00d\x005\x00b\x00e\x00d\x00a\x009\x00a\x00c\x00a\x00f\x00b\x003' @ 132 : 1
+2025/01/06-15:40:05.060 61d Compacting 1@1 + 1@2 files
+2025/01/06-15:40:05.066 61d Generated table #8@1: 49 keys, 1779 bytes
+2025/01/06-15:40:05.066 61d Compacted 1@1 + 1@2 files => 1779 bytes
+2025/01/06-15:40:05.072 61d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/06-15:40:05.072 61d Delete type=2 #5
+2025/01/06-15:40:05.072 61d Delete type=2 #7
+2025/01/06-15:40:05.073 61d Manual compaction at level-1 from '\x00\x04\x01\x02\x018\x00p\x00o\x00l\x00y\x00c\x00a\x00m\x00-\x00a\x004\x00a\x001\x00e\x00!\x001\x00:\x001\x000\x002\x003\x002\x009\x003\x001\x007\x002\x005\x005\x004\x00:\x00w\x00e\x00b\x00:\x00e\x000\x00b\x002\x00e\x00f\x00b\x008\x00c\x00d\x005\x00b\x00e\x00d\x00a\x009\x00a\x00c\x00a\x00f\x00b\x003' @ 132 : 1 .. (end); will stop at (end)

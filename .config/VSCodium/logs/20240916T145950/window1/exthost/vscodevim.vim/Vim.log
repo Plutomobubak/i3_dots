@@ -1,0 +1,490 @@
+2024-09-16 14:59:52.945 [info] Configuration changed
+2024-09-16 14:59:53.937 [info] Configuration changed
+2024-09-16 15:00:01.696 [info] Active editor: file:///home/arch/Projects/Rust/voice/Cargo.toml
+2024-09-16 15:00:28.595 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:00:28.606 [info] /home/arch/Projects/Rust/voice/Cargo.toml.git closed
+2024-09-16 15:00:56.985 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:00:56.993 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:02:00.478 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:02:00.503 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:02:29.768 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:02:29.782 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:02:40.812 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:02:40.825 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:02:53.098 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 15:02:53.569 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:02:53.575 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:02:54.879 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:02:54.889 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:03:11.803 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:03:11.809 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:03:45.774 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:03:45.786 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:03:55.569 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:03:55.577 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:04:01.783 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:04:01.796 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:04:14.215 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:04:14.227 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:04:20.199 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:04:20.214 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:04:21.583 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:04:21.592 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:04:44.184 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:04:44.196 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:04:51.502 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:04:51.510 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:07:13.709 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/error.rs closed
+2024-09-16 15:07:45.276 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/lib.rs closed
+2024-09-16 15:09:12.130 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/lib.rs closed
+2024-09-16 15:11:44.604 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/error.rs closed
+2024-09-16 15:11:44.966 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/platform/mod.rs closed
+2024-09-16 15:11:55.629 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/traits.rs closed
+2024-09-16 15:12:04.678 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/traits.rs closed
+2024-09-16 15:12:18.799 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/option.rs closed
+2024-09-16 15:12:23.544 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/traits.rs closed
+2024-09-16 15:17:09.602 [info] Active editor: file:///home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/platform/mod.rs
+2024-09-16 15:17:09.604 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:17:11.647 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:20:09.554 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/platform/mod.rs closed
+2024-09-16 15:22:12.419 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:22:12.428 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:22:16.326 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:22:16.335 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:22:46.726 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/traits.rs closed
+2024-09-16 15:22:50.503 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/traits.rs closed
+2024-09-16 15:23:38.533 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/platform/mod.rs closed
+2024-09-16 15:23:56.021 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:23:56.034 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:24:06.955 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:24:06.966 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:26:01.059 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/platform/mod.rs closed
+2024-09-16 15:28:04.083 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/build.rs
+2024-09-16 15:28:04.095 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:28:15.324 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:28:15.335 [info] /home/arch/Projects/Rust/voice/src/build.rs.git closed
+2024-09-16 15:28:15.736 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:28:15.746 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:28:16.897 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:28:16.909 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:28:38.959 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:28:38.967 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:29:33.537 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/build.rs
+2024-09-16 15:29:33.546 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:36:50.894 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:36:50.902 [info] /home/arch/Projects/Rust/voice/src/build.rs.git closed
+2024-09-16 15:39:29.573 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:40:08.061 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:40:09.689 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/write.rs closed
+2024-09-16 15:40:12.355 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/sync/mutex.rs closed
+2024-09-16 15:41:14.002 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:42:31.349 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:42:36.696 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:43:25.217 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:43:56.033 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:43:56.043 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:44:01.676 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 15:44:03.259 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 15:44:58.769 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:45:52.299 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:46:05.669 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:46:05.677 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:46:06.255 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/io/buffered/bufwriter.rs closed
+2024-09-16 15:46:17.790 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/lib.rs closed
+2024-09-16 15:47:23.097 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc/src/sync.rs closed
+2024-09-16 15:47:39.396 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/lib.rs closed
+2024-09-16 15:47:47.040 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:48:12.098 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:48:12.635 [info] Active editor: file:///home/arch/Projects/Rust/voice/Cargo.toml
+2024-09-16 15:48:12.641 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:48:13.149 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:48:13.162 [info] /home/arch/Projects/Rust/voice/Cargo.toml.git closed
+2024-09-16 15:48:29.126 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 15:48:42.440 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 15:48:46.124 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 15:49:23.846 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:49:37.579 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:49:41.279 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 15:50:01.151 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/models.rs closed
+2024-09-16 15:50:32.980 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 15:50:32.990 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:51:23.117 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:51:23.127 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 15:51:29.942 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 15:51:29.951 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:51:40.064 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:51:40.073 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 15:51:48.773 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/lib.rs closed
+2024-09-16 15:52:04.616 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 15:52:04.625 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:52:08.890 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:52:08.901 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 15:52:12.072 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 15:52:12.080 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:52:20.340 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:52:20.350 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 15:52:25.347 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:52:25.355 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:52:29.738 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/sync/mutex.rs closed
+2024-09-16 15:52:33.080 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/write.rs closed
+2024-09-16 15:55:30.684 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 15:55:30.694 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 15:55:37.477 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 15:55:37.482 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 15:55:55.912 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/models.rs closed
+2024-09-16 15:55:59.004 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 15:55:59.014 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 15:58:01.204 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 15:58:01.215 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:00:39.358 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 16:00:39.420 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc/src/vec/mod.rs closed
+2024-09-16 16:00:39.436 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/result.rs closed
+2024-09-16 16:00:41.370 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/fs.rs closed
+2024-09-16 16:00:41.656 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 16:02:24.878 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/fs.rs closed
+2024-09-16 16:02:26.033 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/fs.rs closed
+2024-09-16 16:02:41.120 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 16:02:49.591 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:02:49.601 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:04:18.976 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:04:18.985 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:04:19.693 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 16:04:24.845 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:04:24.853 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:04:26.463 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/io/buffered/bufwriter.rs closed
+2024-09-16 16:04:32.422 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:04:32.432 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:04:45.131 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:04:45.139 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:05:27.381 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:06:23.501 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:06:24.226 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/option.rs closed
+2024-09-16 16:06:41.819 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/sync/mutex.rs closed
+2024-09-16 16:07:54.345 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:08:07.437 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:08:37.912 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:08:37.925 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:08:47.902 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:08:47.908 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:08:55.196 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/lib.rs closed
+2024-09-16 16:08:55.432 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/lib.rs closed
+2024-09-16 16:08:55.871 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:08:55.878 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:09:11.925 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:09:11.935 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:09:21.947 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/time.rs closed
+2024-09-16 16:09:21.971 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/time.rs closed
+2024-09-16 16:09:21.991 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/traits.rs closed
+2024-09-16 16:09:22.039 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/traits.rs closed
+2024-09-16 16:09:22.559 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:09:22.569 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:09:58.014 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:09:58.023 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:10:23.729 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:10:23.734 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:10:24.322 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:10:24.333 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:10:55.373 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:10:55.383 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:10:57.244 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:10:57.255 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:11:03.857 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:11:03.869 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:11:44.366 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:11:44.374 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:12:22.297 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:12:22.310 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:12:23.710 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 16:12:34.819 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:12:59.075 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:13:03.453 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:13:03.465 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:13:35.125 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:13:35.135 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:13:43.893 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:13:43.904 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:13:50.186 [info] Active editor: file:///home/arch/Projects/Rust/voice/Cargo.toml
+2024-09-16 16:13:50.189 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:13:50.629 [info] /home/arch/Projects/Rust/voice/Cargo.toml.git closed
+2024-09-16 16:13:59.769 [info] Active editor: file:///home/arch/Projects/Rust/voice/Cargo.toml
+2024-09-16 16:14:00.981 [info] /home/arch/Projects/Rust/voice/Cargo.toml.git closed
+2024-09-16 16:14:01.363 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:14:47.806 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:15:06.651 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:15:11.305 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:15:12.635 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:15:16.001 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:15:16.010 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:16:08.226 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/write.rs closed
+2024-09-16 16:16:13.190 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:16:13.197 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:16:25.702 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:16:25.712 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:16:38.658 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/write.rs closed
+2024-09-16 16:17:01.472 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hound-3.5.1/src/lib.rs closed
+2024-09-16 16:17:02.078 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/sync/mutex.rs closed
+2024-09-16 16:17:09.775 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:17:09.784 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:17:11.270 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 16:17:13.397 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 16:17:18.646 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 16:17:26.612 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:17:26.622 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:17:42.714 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:17:42.722 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:20:46.539 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:20:46.546 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:21:18.428 [info] Active editor: file:///home/arch/Projects/Rust/voice/Cargo.toml
+2024-09-16 16:21:18.437 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:21:19.122 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:21:19.134 [info] /home/arch/Projects/Rust/voice/Cargo.toml.git closed
+2024-09-16 16:21:26.335 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:21:26.344 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:22:06.982 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/cmp.rs closed
+2024-09-16 16:25:21.318 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:25:21.327 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:25:22.035 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:25:22.042 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:25:34.564 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:25:34.571 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:27:35.993 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 16:27:40.676 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:27:40.685 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:27:42.985 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc/src/vec/mod.rs closed
+2024-09-16 16:27:45.198 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 16:27:45.208 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:27:47.862 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 16:28:16.492 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:28:16.502 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 16:28:18.298 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:28:18.310 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:28:21.857 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:28:21.867 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:28:28.836 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:28:28.843 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 16:28:33.119 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 16:28:33.129 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 16:35:21.159 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 16:35:21.161 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:02:43.649 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:02:43.657 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:02:45.269 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:02:45.279 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:03:37.284 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:03:37.292 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:04:33.967 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:04:33.977 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:12:57.112 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:12:57.122 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:13:01.312 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:13:01.322 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:13:25.075 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:13:25.083 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:13:30.738 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:13:30.745 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:13:42.316 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:13:42.327 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:13:44.315 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:13:44.323 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:13:45.918 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:13:45.928 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:13:46.520 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:13:46.527 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:20:16.107 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:20:16.118 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:20:19.490 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:20:19.498 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:20:28.355 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:20:28.366 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:20:30.470 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:20:30.480 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:23:47.328 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:23:47.338 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:23:48.357 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:23:48.365 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:23:58.288 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc/src/sync.rs closed
+2024-09-16 19:25:04.373 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:25:04.384 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:25:07.461 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:25:07.470 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:32:22.741 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:32:22.751 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:32:24.695 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:32:24.706 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:32:33.011 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/lib.rs closed
+2024-09-16 19:32:34.048 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:32:34.059 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:32:35.384 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:32:35.393 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:32:46.051 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/models.rs closed
+2024-09-16 19:33:46.638 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 19:34:18.134 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:34:18.145 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:34:30.387 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/platform/mod.rs closed
+2024-09-16 19:35:47.151 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:35:47.162 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:36:10.836 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:36:10.845 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:39:18.636 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:39:18.647 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:41:32.242 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:41:32.250 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:42:25.653 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:42:25.665 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:43:03.827 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:43:03.834 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:43:12.308 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:43:12.315 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:44:12.078 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:44:12.091 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:46:07.051 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:46:07.063 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:48:02.081 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:48:02.090 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:48:06.367 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:48:06.378 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:48:19.231 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:48:19.241 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:48:21.613 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/models.rs closed
+2024-09-16 19:49:12.454 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:49:12.462 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:49:19.380 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:49:19.389 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:49:21.918 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:49:21.930 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:49:58.371 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:49:58.380 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:49:59.643 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:49:59.650 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:51:13.558 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:51:13.566 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:51:23.613 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:51:23.619 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:51:44.373 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 19:51:44.380 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:51:50.324 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:51:50.331 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 19:52:08.872 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/thread/mod.rs closed
+2024-09-16 19:54:50.027 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:54:50.035 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 19:54:51.994 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/build.rs
+2024-09-16 19:54:52.003 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:54:53.419 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 19:54:53.426 [info] /home/arch/Projects/Rust/voice/src/build.rs.git closed
+2024-09-16 19:55:16.225 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cpal-0.15.3/src/platform/mod.rs closed
+2024-09-16 19:57:36.069 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 19:57:36.080 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 19:57:36.961 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc/src/vec/mod.rs closed
+2024-09-16 20:01:13.126 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:01:13.134 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:01:21.411 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:01:21.419 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 20:14:35.114 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:14:39.183 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:21:56.187 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:21:56.194 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:21:58.057 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:21:58.065 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 20:27:58.205 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:27:58.213 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:28:21.542 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:28:21.552 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 20:31:19.844 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:31:19.852 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:31:21.538 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:31:21.550 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 20:31:33.445 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:31:33.451 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:32:39.329 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/models.rs closed
+2024-09-16 20:33:16.504 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/slice/mod.rs closed
+2024-09-16 20:33:29.967 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/results.rs closed
+2024-09-16 20:34:49.730 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:34:49.741 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 20:35:00.334 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:35:00.342 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:35:03.212 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:35:03.224 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 20:40:32.261 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/conf/mfcc.conf
+2024-09-16 20:40:32.266 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:40:34.125 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/mfcc.conf closed
+2024-09-16 20:40:34.135 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/conf/model.conf
+2024-09-16 20:40:34.138 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/mfcc.conf.git closed
+2024-09-16 20:40:46.703 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/model.conf closed
+2024-09-16 20:40:46.717 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/model.conf.git closed
+2024-09-16 20:40:48.244 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:40:49.701 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/README
+2024-09-16 20:40:49.706 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:40:56.933 [info] /home/arch/Projects/Rust/voice/model-en-light/README closed
+2024-09-16 20:40:56.935 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:40:56.947 [info] /home/arch/Projects/Rust/voice/model-en-light/README.git closed
+2024-09-16 20:40:59.980 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:41:01.185 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:41:02.092 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/conf/model.conf
+2024-09-16 20:41:02.096 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:41:02.537 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/model.conf closed
+2024-09-16 20:41:02.546 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/conf/mfcc.conf
+2024-09-16 20:41:02.550 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/model.conf.git closed
+2024-09-16 20:41:06.300 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/mfcc.conf closed
+2024-09-16 20:41:06.309 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/conf/model.conf
+2024-09-16 20:41:06.313 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/mfcc.conf.git closed
+2024-09-16 20:41:09.415 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/model.conf closed
+2024-09-16 20:41:09.424 [info] /home/arch/Projects/Rust/voice/model-en-light/conf/model.conf.git closed
+2024-09-16 20:41:10.826 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/ivector/online_cmvn.conf
+2024-09-16 20:41:13.672 [info] /home/arch/Projects/Rust/voice/model-en-light/ivector/online_cmvn.conf closed
+2024-09-16 20:41:13.681 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/ivector/splice.conf
+2024-09-16 20:41:13.684 [info] /home/arch/Projects/Rust/voice/model-en-light/ivector/online_cmvn.conf.git closed
+2024-09-16 20:41:15.549 [info] /home/arch/Projects/Rust/voice/model-en-light/ivector/splice.conf closed
+2024-09-16 20:41:15.560 [info] Active editor: file:///home/arch/Projects/Rust/voice/model-en-light/README
+2024-09-16 20:41:15.565 [info] /home/arch/Projects/Rust/voice/model-en-light/ivector/splice.conf.git closed
+2024-09-16 20:41:17.400 [info] /home/arch/Projects/Rust/voice/model-en-light/README closed
+2024-09-16 20:41:17.403 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:41:17.417 [info] /home/arch/Projects/Rust/voice/model-en-light/README.git closed
+2024-09-16 20:44:31.994 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:44:32.002 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:44:40.013 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 20:44:50.511 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 20:46:04.992 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 20:46:06.582 [info] /home/arch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/vosk-0.2.0/src/recognition/mod.rs closed
+2024-09-16 20:49:36.975 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:49:36.986 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 20:56:29.716 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 20:56:29.724 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 20:57:05.974 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 20:57:05.984 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 21:23:25.520 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/build.rs
+2024-09-16 21:23:25.525 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 21:23:33.110 [info] /home/arch/Projects/Rust/voice/src/build.rs closed
+2024-09-16 21:23:33.113 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 21:23:33.128 [info] /home/arch/Projects/Rust/voice/src/build.rs.git closed
+2024-09-16 21:29:27.490 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/process.rs closed
+2024-09-16 21:29:56.041 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/process.rs closed
+2024-09-16 21:38:44.248 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc/src/vec/mod.rs closed
+2024-09-16 21:39:15.701 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 21:39:15.703 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 21:39:17.304 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 21:39:17.310 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 21:40:28.689 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 21:40:28.700 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 21:40:29.399 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 21:40:29.408 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 21:42:03.795 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 21:42:03.801 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 21:42:14.582 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/speech_to_text.rs
+2024-09-16 21:42:14.591 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 21:42:15.748 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 21:42:15.757 [info] /home/arch/Projects/Rust/voice/src/speech_to_text.rs.git closed
+2024-09-16 21:42:21.583 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 21:42:21.591 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 21:42:56.938 [info] /home/arch/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/std/src/process.rs closed
+2024-09-16 21:50:29.899 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 21:50:29.903 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 21:53:03.389 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 21:53:03.398 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 22:38:29.229 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/build.rs
+2024-09-16 22:38:29.237 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
+2024-09-16 22:41:06.849 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 22:41:06.861 [info] /home/arch/Projects/Rust/voice/src/build.rs.git closed
+2024-09-16 22:42:41.172 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/main.rs
+2024-09-16 22:42:41.186 [info] /home/arch/Projects/Rust/voice/src/audio.rs.git closed
+2024-09-16 22:44:35.845 [info] Active editor: file:///home/arch/Projects/Rust/voice/src/audio.rs
+2024-09-16 22:44:35.853 [info] /home/arch/Projects/Rust/voice/src/main.rs.git closed
